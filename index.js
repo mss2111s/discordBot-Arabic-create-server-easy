@@ -12,7 +12,7 @@ const client = new Discord.Client({
 });
 
 const config = {
-    token: 'حط توكن البوت هنا',
+    token: 7906ab1e817e4e1fc641488fe6ea68d1060186fb2e7fcc4a8bc7001eb22cdee3,
     prefix: '!'
 };
 
